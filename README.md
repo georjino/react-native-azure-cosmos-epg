@@ -1,5 +1,5 @@
 # react-native-azure-cosmos-epg
-This package provide query and insert against azure cosmos db 
+This package provides CRUD operations against azure cosmos db 
 
 # Install
 ```
